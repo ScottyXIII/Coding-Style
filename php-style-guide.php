@@ -69,4 +69,10 @@ keep things clean and readable
 </body>
 </html>
 
-instead of opening a php tag just to echo out a variable use the short tag <?=$var?>  
+instead of opening a php tag just to echo out a variable use the short tag <?=$var?> This shortag 
+is dependent on the server settings. 
+
+
+Comments: 
+  Your code should really speak for it self but sometimes we need to explain something that may not be so obvious to the reader.
+  
